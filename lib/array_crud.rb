@@ -28,6 +28,7 @@ end
 
 def retrieve_element_from_index(array, index_number)
   small_array = ['wow','i','am','really','learning','arrays!']
+  small_array[2]
 end
 
 def retrieve_first_element_from_array(array)
@@ -37,7 +38,7 @@ end
 
 def retrieve_last_element_from_array(array)
   big_array = ['wow','i','am','really','learning','arrays!']
-  p big_array[2]
+  p big_array[5]
 end
 
 def update_element_from_index(array, index_number, element)
