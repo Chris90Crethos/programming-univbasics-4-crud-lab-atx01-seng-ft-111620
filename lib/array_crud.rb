@@ -13,7 +13,7 @@ end
 
 def add_element_to_start_of_array(array, element)
   possum = [6,7,8,9]
-  possum.unshift("wow!")
+  possum.unshift("wow")
 end
 
 def remove_element_from_end_of_array(array)
