@@ -27,17 +27,19 @@ def remove_element_from_start_of_array(array)
 end
 
 def retrieve_element_from_index(array, index_number)
-  small_array[]
+  small_array = ['wow','i','am','really','learning','arrays!']
 end
 
 def retrieve_first_element_from_array(array)
-  
+  smaller_array = ['wow','i','am','really','learning','arrays!']
+  smaller_array[0]
 end
 
 def retrieve_last_element_from_array(array)
-  
+  big_array = ['wow','i','am','really','learning','arrays!']
+  big_array[5]
 end
 
 def update_element_from_index(array, index_number, element)
-
+  simple_array
 end
